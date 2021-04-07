@@ -10,9 +10,9 @@ public class SampleApplication {
 		SpringApplication.run(SampleApplication.class, args);
 	}
 
-	public static void main(String[] args) {
-		SpringApplication.run(SampleApplication.class, args);
-	}	
+//	public static void main(String[] args) {
+//		SpringApplication.run(SampleApplication.class, args);
+//	}	
 	
 	
 }
